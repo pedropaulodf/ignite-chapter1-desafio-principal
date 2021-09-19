@@ -19,7 +19,7 @@ O projeto foi desenvolvido usando as tecnologias abaixo:
 Clone o projeto e acesse a pasta dele:
 
 ```bash
-$ git clone https://github.com/pedropaulodf/ignite-chapter1-desafio-principal && cd ignite-chapter1-desafio-principal
+$ git clone https://github.com/pedropaulodf/ignite-chapter1-desafio-principal.git && cd ignite-chapter1-desafio-principal
 ```
 
 Depois de acessada a pasta, rode os comandos abaixo:
