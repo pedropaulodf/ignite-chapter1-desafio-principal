@@ -1,5 +1,5 @@
 # To.do
-
+[Veja online na vercel](https://ignite-chapter1-desafio-principal.vercel.app/)
 <h1 align="center">
     <img alt="To.do" title="To.do" src=".readme/thumb.png" />
 </h1>
